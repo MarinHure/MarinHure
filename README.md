@@ -21,7 +21,7 @@ I developed predictive models to enhance chip detection efficiency:
 - [RFID Predictive Modelling Repository](https://github.com/MarinHure/RFID_Predictive_Modelling.git)
 
 Feel free to explore these projects, and if you're interested in collaborating or have any questions, please don't hesitate to reach out! 
-You can contact me via email at [marin.hure@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/marin-hure-524405157/).
+You can contact me via email at [marin.hure@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/marin-hure/).
 
 <!---
 MarinHure/MarinHure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
