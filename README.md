@@ -7,17 +7,14 @@ I have had the opportunity to work on several Data Science projects throughout m
 
 One of my recent projects involves blob detection, where I developed a tool for automatically detecting and simulating networks created by the Physarum polycephalum (blob) from images. 
 I utilized computer vision and deep learning techniques for object detection:
-
 - [Blob Detectron Repository](https://github.com/MarinHure/Blob_Detectron.git)
 
 Being passionate about sports, particularly rugby, I discovered Machine Learning while working on a project to predict the outcomes of rugby matches during the 6 Nations 2023 tournament.
 I employed machine learning algorithms to make accurate predictions:
-
 - [Rugby Predictor Repository](https://github.com/MarinHure/Rugby_Predictor.git)
 
 Here is a school project in which I used Machine Learning to improve the detection of RFID chips on a conveyor belt.
 I developed predictive models to enhance chip detection efficiency:
-
 - [RFID Predictive Modelling Repository](https://github.com/MarinHure/RFID_Predictive_Modelling.git)
 
 Feel free to explore these projects, and if you're interested in collaborating or have any questions, please don't hesitate to reach out! 
