@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @MarinHure
-## 👀 I’m currently looking for an end-of-studies internship as Data Scientist, Machine/Deep Learning Engineer
+## 👀 I’m currently looking for a job as Data Scientist, Machine/Deep Learning Engineer
 
-I am an engineering student, specialized in Big Data, with experience in NLP and Computer Vision.
+I am an engineer, specialized in Data Science / Machine Learning, with experience in NLP and Computer Vision.
 
 I have had the opportunity to work on several Data Science projects throughout my studies and internships, and you can find some of them in my profile.
 
